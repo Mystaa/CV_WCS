@@ -1,0 +1,104 @@
+body {
+	background: rgb(104, 187, 285);
+}
+#header {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: rgb(150, 200, 200);
+	padding: 20px 10px 20px 10px;
+	margin: 25px 20px 0 20px;
+	text-align: center;
+	color: rgb(63, 34, 4);
+}
+#container {
+	background: rgb(150, 200, 200);
+	padding: 0 10px 610px 10px;
+	margin: 10px 20px 10px 20px;
+}
+#left-box {
+	float: left;
+	background: rgb(9, 30, 45);
+	color: white;
+	height: 550px;
+	width: 200px;
+	margin: 40px 10px 15px 15px;
+}
+img {
+	margin: 25px 37.5px 0 37.5px;
+}
+p {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	margin: 5px 5px 5px 10px;
+	padding-bottom: 10px;
+}
+
+ul {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	margin-left: -30px;
+	font-size: 15px;
+	padding-bottom: 11px;
+	line-height: 20px;
+}
+#right-box {
+	background: rgb(9, 30, 45);
+	height: 550px;
+	width: 350px;
+	margin: 40px 10px 15px 230px;
+	position: absolute;
+}
+#experiences-box{
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: white;
+	margin: 30px 10px 10px 10px;
+	height: 250px;
+	text-align: center;
+	color: rgb(63, 34, 4);
+}
+h2 {
+	padding-top: 15px;
+}
+.experience {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: rgb(9, 30, 45);
+	height: 175px;
+	width: 100px;
+	color: white;
+	margin: -5px 0 10px 0px;
+	font-size: 15px;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.service {
+	margin-right: 10px;
+}
+
+#studies-box {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: white;
+	margin: 0 10px 0 10px;
+	height: 250px;
+	text-align: center;
+	color: rgb(63, 34, 4);
+}
+
+.classe {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: rgb(9, 30, 45);
+	height: 175px;
+	width: 100px;
+	color: white;
+	margin: -5px 0 10px 0px;
+	font-size: 15px;
+	display: inline-block;
+	overflow: hidden;
+}
+
+ #footer {
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background: rgb(150, 200, 200);
+	padding: 20px 10px 20px 10px;
+	margin: 10px 20px 10px 20px;
+	text-align: center;
+	color: rgb(63, 34, 4);
+	height: 75px;
+}
